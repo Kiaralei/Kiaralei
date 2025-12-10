@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-好的！我帮你生成一个 **完整的 GitHub 个人主页 README**，  
-风格是：**可爱 × 工程师 × 二次元 × 轻轻赛博混合风**，整体有个性但不过度。  
-用户名按照你提供的： **Kiaralei**。
-
-你可以直接把下面的内容贴到名为 **Kiaralei** 的 GitHub 仓库的 README.md 中，它就会成为你的 GitHub 首页。
-
-以下是成品：
-
----
 
 # 🌸 Hi, I'm **Kiaralei** 🌸  
 _🐾 A curious engineer wandering through code, bugs, and cute things._
@@ -78,10 +69,10 @@ _🐾 A curious engineer wandering through code, bugs, and cute things._
 <!-- （这些是自动动态渲染的漂亮卡片） -->
 
 ### ⭐ GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiaralei&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kiaralei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiaralei&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kiaralei&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
@@ -89,9 +80,7 @@ _🐾 A curious engineer wandering through code, bugs, and cute things._
 <!-- 这段会在 GitHub Actions 自动生成贪吃蛇动画  
 在你 push 这个 README 后再按照提示开启 Action -->
 
-```
 ![snake gif](https://github.com/Kiaralei/Kiaralei/blob/output/github-contribution-grid-snake.svg)
-```
 
 ---
 
