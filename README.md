@@ -67,15 +67,19 @@ _🐾 A curious engineer wandering through code, bugs, and cute things._
 
 # 📊 GitHub Stats  
 <!-- （这些是自动动态渲染的漂亮卡片） -->
-
-### ⭐ GitHub Overview
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiaralei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) -->
-![GitHub Stats](https://github-readme-stats-rho-sand-48.vercel.app/api?username=Kiaralei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-
-### 🔥 Most Used Languages
-<!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kiaralei&layout=compact&theme=tokyonight&hide_border=true&langs_count=8) -->
-![Top Langs](https://github-readme-stats-rho-sand-48.vercel.app/api/top-langs/?username=Kiaralei&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<table>
+  <tr>
+    <td align="center">
+      <h3>⭐ GitHub Overview</h3>
+      <img src="https://github-readme-stats-rho-sand-48.vercel.app/api?username=Kiaralei&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    
+    <td align="center">
+      <h3>🔥 Most Used Languages</h3>
+      <img src="https://github-readme-stats-rho-sand-48.vercel.app/api/top-langs/?username=Kiaralei&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+</table>
 ---
 
 # 🐍 Contribution Snake  
