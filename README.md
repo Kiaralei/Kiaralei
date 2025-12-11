@@ -68,17 +68,17 @@ _🐾 A curious engineer wandering through code, bugs, and cute things._
 # 📊 GitHub Stats  
 <!-- （这些是自动动态渲染的漂亮卡片） -->
 <table>
-  <tr>
-    <td align="center">
-      <h3>⭐ GitHub Overview</h3>
-      <img src="https://github-readme-stats-rho-sand-48.vercel.app/api?username=Kiaralei&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-    </td>
-    
-    <td align="center">
-      <h3>🔥 Most Used Languages</h3>
-      <img src="https://github-readme-stats-rho-sand-48.vercel.app/api/top-langs/?username=Kiaralei&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<h2>⭐ GitHub Overview</h2>h2><br/>
+<img src="https://github-readme-stats-rho-sand-48.vercel.app/api?username=Kiaralei&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+</td>
+
+<td align="center">
+<h2>🔥 Most Used Languages</h2><br/>
+<img src="https://github-readme-stats-rho-sand-48.vercel.app/api/top-langs/?username=Kiaralei&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+</td>
+</tr>
 </table>
 ---
 
