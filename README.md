@@ -80,7 +80,6 @@ _🐾 A curious engineer wandering through code, bugs, and cute things._
   </td>
 </tr>
 </table>
----
 
 # 🐍 Contribution Snake  
 <!-- 这段会在 GitHub Actions 自动生成贪吃蛇动画  
