@@ -1,9 +1,10 @@
 name: Generate Snake
 
 on:
-#   schedule: 
-#     - cron: "0 */12 * * *"
-  workflow_dispatch:
+schedule:
+    # 每周日凌晨 0 点运行 (UTC 时间)
+    - cron: "0 0 * * 0"
+  workflow_dispatch: # 保留手动触发按钮
 
 jobs:
   build:
